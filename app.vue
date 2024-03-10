@@ -18,18 +18,18 @@
       </div>
     </div>
     <div
-        class="bg-grey-0 rounded-24 desktop-m:rounded-40 w-full flex-1 relative overflow-hidden z-10 tablet-s:max-h-[777px]">
-      <div class="mobile:flex-col mobile:p-16 flex justify-between items-center desktop-m:pl-122 desktop-m:pt-100">
+        class="bg-grey-0 rounded-24 desktop-m:rounded-40 w-full desktop-m:flex-1 relative overflow-hidden z-10 tablet-s:max-h-[777px]">
+      <div class="p-24 flex flex-col desktop-m:flex-row justify-between items-center desktop-m:pl-122 desktop-m:pt-100">
         <div class="flex flex-col max-w-full w-[481px] flex-shrink-0 items-center">
           <div class="text-mobileHeroBold desktop-m:text-heroBold text-grey-800">
             Онлайн автошкола
             в Испании 🇪🇸
           </div>
-          <div class="text-headingRegular desktop-m:text-heroDescriptionRegular text-grey-600 mt-16">
+          <div class="text-headingRegular desktop-m:text-heroDescriptionRegular text-grey-600 mt-8 desktop-m:mt-16">
             Онлайн обучение теории ПДД Испании: гибкость и доступность обучения из любой точки страны и за её
             пределами.
           </div>
-          <div class="mt-16 desktop-m:mt-[52px] flex gap-16 desktop-m:gap-24 w-full mobile:flex-col">
+          <div class="mt-32 desktop-m:mt-[52px] flex gap-16 desktop-m:gap-24 w-full mobile:flex-col">
             <a href="https://app.gosnami.com/register/"
                class="h-40 desktop-m:h-64 rounded-40 desktop-m:flex-1 px-32 text-headingSemiBold desktop-m:text-SubtitleSemiBold text-grey-0 inline-flex items-center justify-center bg-brand-green-1000">
               Регистрация
@@ -40,7 +40,7 @@
             </a>
           </div>
         </div>
-        <div class="desktop-m:pr-16 h-[571px] mobile:h-auto mobile:pt-32">
+        <div class="desktop-m:pr-16 h-auto desktop-m:h-[571px] pt-64 desktop-m:pt-0">
           <picture>
             <source srcset="/images/image.png,/images/image2x.png 2x"
                     media="(min-width: 0px)"
