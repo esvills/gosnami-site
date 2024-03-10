@@ -70,9 +70,11 @@
             <div class="text-textRegular desktop-m:text-headingRegular text-grey-0 opacity-50">
               Контактный центр
             </div>
-            <div class="text-SubtitleBold text-grey-0">
-              +34 698 998 453
-            </div>
+            <a href="tel:+34 663 540 480">
+              <div class="text-SubtitleBold text-grey-0">
+                +34 663 540 480
+              </div>
+            </a>
           </div>
           <div class="flex gap-16">
             <a href="https://t.me/gosnami_es" target="_blank" rel="noreferrer"
@@ -90,9 +92,11 @@
             <div class="text-textRegular desktop-m:text-headingRegular text-grey-0 opacity-50">
               Общие вопросы
             </div>
-            <div class="text-SubtitleBold text-grey-0">
-              hello@gosnami.com
-            </div>
+            <a href="mailto:hello@gosnami.com">
+              <div class="text-SubtitleBold text-grey-0">
+                hello@gosnami.com
+              </div>
+            </a>
           </div>
         </div>
         <div class="flex flex-col gap-24 max-w-[419px]">
