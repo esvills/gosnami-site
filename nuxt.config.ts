@@ -19,7 +19,6 @@ export default defineNuxtConfig({
                     content: 'width=device-width, minimum-scale=1, initial-scale=1, shrink-to-fit=no, user-scalable=0, viewport-fit=cover'
                 },
                 {
-                    hid: 'description',
                     name: 'description',
                     content: 'Онлайн обучение теории ПДД Испании: гибкость и доступность обучения из любой точки страны и за её пределами.'
                 },
