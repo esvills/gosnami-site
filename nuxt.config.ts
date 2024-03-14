@@ -11,12 +11,15 @@ export default defineNuxtConfig({
     app: {
         rootId: 'gosnami',
         head: {
+            htmlAttrs: {
+                lang: 'ru'
+            },
             title: "GoSnami Онлайн автошкола в Испании 🇪🇸",
             meta: [
                 {charset: 'utf-8'},
                 {
                     name: 'viewport',
-                    content: 'width=device-width, minimum-scale=1, initial-scale=1, shrink-to-fit=no, user-scalable=0, viewport-fit=cover'
+                    content: 'width=device-width, minimum-scale=1, initial-scale=1, shrink-to-fit=no, viewport-fit=cover'
                 },
                 {
                     name: 'description',

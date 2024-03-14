@@ -132,10 +132,10 @@
           <a href="/terms.pdf" class="text-headingRegular text-grey-0 opacity-50">Terms of Use</a>
         </div>
         <div class="flex gap-24">
-          <a href="https://www.instagram.com/gosnami.es/" target="_blank" rel="noreferrer">
+          <a href="https://www.instagram.com/gosnami.es/" target="_blank" rel="noreferrer" aria-label="Ссылка на Instagram Gosnami">
             <img class="w-40 h-40" src="/images/social_instagram.png" alt=""/>
           </a>
-          <a href="https://www.facebook.com/gosnami.es" target="_blank" rel="noreferrer">
+          <a href="https://www.facebook.com/gosnami.es" target="_blank" rel="noreferrer" aria-label="Ссылка на Facebook Gosnami">
             <img class="w-40 h-40" src="/images/social_facebook.png" alt=""/>
           </a>
         </div>
