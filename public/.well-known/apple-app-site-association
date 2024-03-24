@@ -1,0 +1,22 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "47R62857UV.com.gosnami.com"
+                ],
+                "components": [
+                    {
+                        "/": "*",
+                        "exclude": true
+                    },
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "47R62857UV.com.gosnami.com"
+        ]
+    },
+}
