@@ -22,8 +22,7 @@
       <div class="p-24 flex flex-col desktop-m:flex-row justify-between items-center desktop-m:pl-122 desktop-m:pt-100">
         <div class="flex flex-col max-w-full w-[481px] flex-shrink-0 items-center">
           <div class="text-mobileHeroBold desktop-m:text-heroBold text-grey-800">
-            Онлайн автошкола
-            в Испании 🇪🇸
+            Онлайн автошкола в Испании 🇪🇸
           </div>
           <div class="text-headingRegular desktop-m:text-heroDescriptionRegular text-grey-600 mt-8 desktop-m:mt-16">
             Онлайн обучение теории ПДД Испании: гибкость и доступность обучения из любой точки страны и за её
@@ -127,9 +126,9 @@
       <div
           class="flex flex-row gap-24 desktop-m:gap-40 items-center justify-between w-full desktop-m:w-auto mt-24 desktop-m:mt-0">
         <div class="flex gap-16 items-center">
-          <a href="/privacy-policy.pdf" class="text-headingRegular text-grey-0 opacity-50">Privacy Policy</a>
+          <a href="/policies/privacy-policy" class="text-headingRegular text-grey-0 opacity-50">Privacy Policy</a>
           <div class="bg-grey-0 opacity-30 h-24 w-[1px]"/>
-          <a href="/terms.pdf" class="text-headingRegular text-grey-0 opacity-50">Terms of Use</a>
+          <a href="/policies/terms-of-use" class="text-headingRegular text-grey-0 opacity-50">Terms of Use</a>
         </div>
         <div class="flex gap-24">
           <a href="https://www.instagram.com/gosnami.es/" target="_blank" rel="noreferrer" aria-label="Ссылка на Instagram Gosnami">
